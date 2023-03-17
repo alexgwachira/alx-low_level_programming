@@ -1,9 +1,13 @@
 #include <stdio.h>
 /**
- *c is fun
+ *main -entry point
+ *return - always zero
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
+	/**
+	 * return - zero is success
+	 */
 	return (0);
 }
